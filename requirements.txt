@@ -1,0 +1,4 @@
+opencv-python
+mediapipe
+PyAutoGUI
+# protobuf==3.20.0
