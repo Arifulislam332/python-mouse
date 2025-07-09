@@ -1,6 +1,6 @@
 import cv2 , pyautogui, mediapipe as mp
 
-phone_ip = "192.168.0.101:8080"
+phone_ip = "192.168.0.102:8080"
 url = f"http://{phone_ip}/video"
 
 cap = cv2.VideoCapture(url)
